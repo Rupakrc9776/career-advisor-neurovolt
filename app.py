@@ -1,4 +1,3 @@
-# app.py — Team Neuro Volt ⚡ (Final Attractive UI)
 import streamlit as st
 import json
 import os
@@ -137,3 +136,4 @@ if btn:
 # ----------------- Footer -----------------
 st.markdown("---")
 st.caption("Built with ❤️ by Team Neuro Volt ⚡")
+
