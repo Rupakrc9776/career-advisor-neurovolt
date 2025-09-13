@@ -1,0 +1,1454 @@
+{
+  "CSE": {
+    "1": {
+      "career_paths": [
+        "Software Developer",
+        "Game Developer",
+        "UI/UX Designer",
+        "Database Trainee",
+        "IT Support Engineer"
+      ],
+      "skills": [
+        "C Programming",
+        "Problem Solving Basics",
+        "Computer Fundamentals",
+        "Mathematics for CS",
+        "Logical Thinking"
+      ],
+      "resources": [
+        "https://cs50.harvard.edu/x/",
+        "https://www.geeksforgeeks.org/c-programming-language/",
+        "https://www.khanacademy.org/computing/computer-science",
+        "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/",
+        "https://www.codecademy.com/learn/learn-c"
+      ],
+      "projects": [
+        "Basic Calculator using C",
+        "Number Guessing Game",
+        "Hello World Website (HTML/CSS)",
+        "Library Management CLI",
+        "Student Grade Tracker"
+      ]
+    },
+    "2": {
+      "career_paths": [
+        "Junior Programmer",
+        "Database Intern",
+        "QA Tester",
+        "Frontend Trainee",
+        "Tech Blogger"
+      ],
+      "skills": [
+        "Data Structures (Arrays, Linked Lists)",
+        "SQL Basics",
+        "HTML/CSS",
+        "Debugging",
+        "Version Control (Git)"
+      ],
+      "resources": [
+        "https://www.geeksforgeeks.org/data-structures/",
+        "https://sqlbolt.com/",
+        "https://developer.mozilla.org/en-US/docs/Learn",
+        "https://git-scm.com/doc",
+        "https://www.codecademy.com/learn/learn-sql"
+      ],
+      "projects": [
+        "Student Record System using Arrays",
+        "Simple To-Do List in C",
+        "Basic SQL Database (CRUD operations)",
+        "Personal Portfolio Website",
+        "GitHub Repository with sample projects"
+      ]
+    },
+    "3": {
+      "career_paths": [
+        "Backend Developer Intern",
+        "Web Developer",
+        "Junior Data Analyst",
+        "Cloud Support Intern",
+        "Automation Trainee"
+      ],
+      "skills": [
+        "Object-Oriented Programming (Java/Python)",
+        "Database Management",
+        "JavaScript Basics",
+        "APIs Introduction",
+        "Linux Shell Basics"
+      ],
+      "resources": [
+        "https://www.coursera.org/learn/java-programming",
+        "https://www.python.org/about/gettingstarted/",
+        "https://www.w3schools.com/js/",
+        "https://www.khanacademy.org/computing/computer-programming/sql",
+        "https://ubuntu.com/tutorials"
+      ],
+      "projects": [
+        "Student Information System",
+        "REST API using Flask",
+        "Portfolio Website with JavaScript",
+        "Simple Chatbot (Rule-based)",
+        "Linux File Automation Scripts"
+      ]
+    },
+    "4": {
+      "career_paths": [
+        "Backend Developer",
+        "Data Engineer",
+        "QA Engineer",
+        "Mobile App Developer",
+        "DevOps Intern"
+      ],
+      "skills": [
+        "RESTful APIs",
+        "Intermediate Data Structures (Trees, Graphs)",
+        "Testing Frameworks",
+        "Basic Mobile App Development",
+        "Shell Scripting"
+      ],
+      "resources": [
+        "https://restfulapi.net/",
+        "https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/",
+        "https://junit.org/junit5/",
+        "https://developer.android.com/courses",
+        "https://tldp.org/LDP/Bash-Beginners-Guide/html/"
+      ],
+      "projects": [
+        "REST API for Student Records",
+        "Movie Recommendation using Graphs",
+        "Unit Testing Framework for Calculator",
+        "Basic Android App (Notes App)",
+        "Automated Backup Script"
+      ]
+    },
+    "5": {
+      "career_paths": [
+        "Fullstack Developer",
+        "Data Scientist (Entry)",
+        "Cloud Engineer",
+        "AI/ML Intern",
+        "Cybersecurity Trainee"
+      ],
+      "skills": [
+        "React/Node.js",
+        "Statistics for Data Science",
+        "Machine Learning Basics",
+        "Cloud Fundamentals (AWS/GCP)",
+        "Cybersecurity Basics"
+      ],
+      "resources": [
+        "https://react.dev/learn",
+        "https://www.coursera.org/learn/statistics-for-data-science",
+        "https://www.coursera.org/learn/machine-learning",
+        "https://aws.amazon.com/training/",
+        "https://www.coursera.org/learn/intro-cyber-security"
+      ],
+      "projects": [
+        "Fullstack Blog Application",
+        "Data Visualization Dashboard",
+        "Image Classifier using ML",
+        "Deploy App to AWS/Heroku",
+        "Password Strength Checker"
+      ]
+    },
+    "6": {
+      "career_paths": [
+        "Machine Learning Engineer",
+        "Cloud Developer",
+        "Systems Engineer",
+        "Database Administrator",
+        "SRE (Site Reliability Engineer)"
+      ],
+      "skills": [
+        "Advanced SQL",
+        "Docker & Containers",
+        "Machine Learning Libraries (Scikit-learn)",
+        "System Design Basics",
+        "NoSQL Databases"
+      ],
+      "resources": [
+        "https://www.kaggle.com/learn",
+        "https://www.postgresqltutorial.com/",
+        "https://www.docker.com/101-tutorial",
+        "https://www.educative.io/courses/grokking-the-system-design-interview",
+        "https://www.mongodb.com/docs/"
+      ],
+      "projects": [
+        "Data Pipeline with Docker",
+        "Recommendation System using ML",
+        "System Design for E-commerce",
+        "NoSQL-based Chat Application",
+        "Database Optimization Project"
+      ]
+    },
+    "7": {
+      "career_paths": [
+        "AI Engineer",
+        "Big Data Engineer",
+        "Software Architect",
+        "Cloud Solutions Architect",
+        "Cybersecurity Engineer"
+      ],
+      "skills": [
+        "Deep Learning",
+        "Distributed Systems",
+        "Kubernetes",
+        "System Security",
+        "API Integrations"
+      ],
+      "resources": [
+        "https://www.deeplearning.ai/",
+        "https://spark.apache.org/docs/latest/",
+        "https://kubernetes.io/docs/home/",
+        "https://owasp.org/www-project-top-ten/",
+        "https://developers.google.com/apis-explorer"
+      ],
+      "projects": [
+        "Neural Network for Image Classification",
+        "Big Data Pipeline with Spark",
+        "Kubernetes Deployment Project",
+        "Penetration Testing Report",
+        "API-based Payment Gateway Integration"
+      ]
+    },
+    "8": {
+      "career_paths": [
+        "Senior Software Engineer",
+        "ML Engineer",
+        "Data Scientist",
+        "Solutions Architect",
+        "Tech Lead"
+      ],
+      "skills": [
+        "Production ML Systems",
+        "Advanced Cloud Computing",
+        "Scalable System Design",
+        "DevOps Pipelines",
+        "AI Ethics & Governance"
+      ],
+      "resources": [
+        "https://cloud.google.com/training",
+        "https://mlflow.org/docs/latest/index.html",
+        "https://aws.amazon.com/architecture/",
+        "https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/",
+        "https://ai.google/responsible-ai/"
+      ],
+      "projects": [
+        "Production ML Model with Monitoring",
+        "Distributed Microservices Application",
+        "CI/CD Pipeline with GitLab",
+        "AI Bias & Fairness Analysis",
+        "Capstone: End-to-End AI System"
+      ]
+    }
+  },
+  "ECE": {
+    "1": {
+      "career_paths": [
+        "Embedded Systems Engineer",
+        "Electronics Technician",
+        "IoT Intern",
+        "Robotics Hobbyist",
+        "Hardware Tester"
+      ],
+      "skills": [
+        "Basic Electronics (Ohm’s Law)",
+        "Intro to Circuits",
+        "Breadboarding",
+        "C Programming",
+        "Arduino Basics"
+      ],
+      "resources": [
+        "https://www.allaboutcircuits.com/",
+        "https://www.arduino.cc/en/Guide/Introduction",
+        "https://www.codecademy.com/learn/c-plus-plus",
+        "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/",
+        "https://www.electronics-tutorials.ws/"
+      ],
+      "projects": [
+        "LED Blinking Circuit",
+        "Digital Stopwatch",
+        "Simple Temperature Logger",
+        "Buzzer Alarm Project",
+        "Light Sensor Demo"
+      ]
+    },
+    "2": {
+      "career_paths": [
+        "Junior Embedded Intern",
+        "PCB Designer Intern",
+        "Analog Circuit Designer",
+        "Test Bench Assistant",
+        "IoT Support Engineer"
+      ],
+      "skills": [
+        "Analog Circuits",
+        "Soldering",
+        "Op-Amps Basics",
+        "Digital Logic",
+        "Microcontroller Programming"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/108105101",
+        "https://www.ti.com/amplifier-circuit/op-amp/training.html",
+        "https://www.electronicsforu.com/",
+        "https://circuitdigest.com/tutorials",
+        "https://www.microchip.com/en-us/solutions/microcontrollers"
+      ],
+      "projects": [
+        "Op-Amp Amplifier",
+        "Digital Counter with 7-seg",
+        "PWM Motor Controller",
+        "Temperature Display on LCD",
+        "Basic Sensor Module"
+      ]
+    },
+    "3": {
+      "career_paths": [
+        "Embedded Developer",
+        "Robotics Enthusiast",
+        "FPGA Intern",
+        "Automation Engineer",
+        "IoT Developer"
+      ],
+      "skills": [
+        "Microcontrollers (AVR/ARM)",
+        "Digital Logic Design",
+        "Sensor Interfacing",
+        "VHDL/Verilog Basics",
+        "Signal Processing Intro"
+      ],
+      "resources": [
+        "https://www.coursera.org/learn/introduction-embedded-systems",
+        "https://www.nandland.com/vhdl/tutorials/",
+        "https://www.fpga4student.com/",
+        "https://nptel.ac.in/courses/108105102",
+        "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/"
+      ],
+      "projects": [
+        "Line Follower Robot",
+        "Home Automation with Arduino",
+        "Digital Lock System",
+        "FPGA-based Traffic Light Controller",
+        "Sensor Fusion Project"
+      ]
+    },
+    "4": {
+      "career_paths": [
+        "VLSI Engineer",
+        "Embedded Firmware Developer",
+        "Control Systems Engineer",
+        "Robotics Engineer",
+        "IoT Application Developer"
+      ],
+      "skills": [
+        "Communication Protocols (I2C, SPI, UART)",
+        "RTOS Basics",
+        "PCB Design",
+        "FPGA Programming",
+        "Signal Analysis"
+      ],
+      "resources": [
+        "https://www.coursera.org/learn/iot",
+        "https://www.xilinx.com/support/documentation-navigation/development-tools.html",
+        "https://www.altium.com/resources/learn/pcb-design",
+        "https://www.keil.com/support/man/docs/rlarm/",
+        "https://nptel.ac.in/courses/108105060"
+      ],
+      "projects": [
+        "IoT Weather Station",
+        "FPGA Digital Clock",
+        "RTOS-based Task Scheduler",
+        "PCB for Power Supply",
+        "Remote Monitoring System"
+      ]
+    },
+    "5": {
+      "career_paths": [
+        "IoT Engineer",
+        "VLSI Designer",
+        "Robotics Engineer",
+        "Embedded Software Engineer",
+        "Wireless Systems Engineer"
+      ],
+      "skills": [
+        "Wireless Communication (Bluetooth, WiFi)",
+        "IoT Frameworks",
+        "FPGA Advanced Modules",
+        "Embedded Linux",
+        "SystemC Basics"
+      ],
+      "resources": [
+        "https://www.coursera.org/learn/embedded-operating-system",
+        "https://nptel.ac.in/courses/117104115",
+        "https://www.intel.com/content/www/us/en/programmable/fpga.html",
+        "https://beagleboard.org/",
+        "https://www.arduino.cc/en/IoT/HomePage"
+      ],
+      "projects": [
+        "IoT Smart Home",
+        "Robotics Arm with Sensors",
+        "FPGA Image Processing",
+        "Embedded Linux Application",
+        "Wireless Sensor Network"
+      ]
+    },
+    "6": {
+      "career_paths": [
+        "Advanced Embedded Engineer",
+        "Robotics Developer",
+        "VLSI Engineer",
+        "DSP Engineer",
+        "IoT Solutions Architect"
+      ],
+      "skills": [
+        "DSP Fundamentals",
+        "Real-Time Systems",
+        "Embedded C++",
+        "Wireless Sensor Networks",
+        "FPGA Verification"
+      ],
+      "resources": [
+        "https://www.coursera.org/learn/dsp",
+        "https://www.ti.com/processors/dsp/overview.html",
+        "https://www.kaggle.com/learn",
+        "https://nptel.ac.in/courses/108104100",
+        "https://www.xilinx.com/developer"
+      ],
+      "projects": [
+        "DSP Audio Filter",
+        "Autonomous Robot with SLAM",
+        "FPGA UART Protocol",
+        "Wireless Sensor Network Simulation",
+        "Smart Factory Prototype"
+      ]
+    },
+    "7": {
+      "career_paths": [
+        "Embedded Systems Lead",
+        "VLSI Specialist",
+        "IoT Research Engineer",
+        "DSP Specialist",
+        "Robotics Innovator"
+      ],
+      "skills": [
+        "Advanced VLSI",
+        "High-Speed Interfaces",
+        "Low-Power Embedded Design",
+        "AI in Embedded",
+        "SoC Integration"
+      ],
+      "resources": [
+        "https://ieeexplore.ieee.org/Xplore/home.jsp",
+        "https://www.synopsys.com/vip.html",
+        "https://www.arm.com/architecture",
+        "https://www.nptel.ac.in/courses/117105137",
+        "https://www.aldec.com/en/resources"
+      ],
+      "projects": [
+        "FPGA Accelerator for AI",
+        "Advanced Robotics with Vision",
+        "IoT Edge Device Prototype",
+        "Low-Power SoC Design",
+        "DSP Project: Voice Recognition"
+      ]
+    },
+    "8": {
+      "career_paths": [
+        "Senior VLSI Engineer",
+        "Embedded R&D Lead",
+        "Robotics Engineer",
+        "IoT Architect",
+        "Hardware Design Consultant"
+      ],
+      "skills": [
+        "ASIC Design",
+        "FPGA-to-ASIC Flow",
+        "Advanced RTOS",
+        "System Verification",
+        "Industry Standards Compliance"
+      ],
+      "resources": [
+        "https://www.synopsys.com/verification.html",
+        "https://asic-world.com/",
+        "https://www.nptel.ac.in/courses/117105138",
+        "https://www.mentor.com/",
+        "https://www.altium.com/solutions/pcb-design"
+      ],
+      "projects": [
+        "Capstone: SoC Design",
+        "Full IoT Architecture Implementation",
+        "Robotics Vision & Control",
+        "Advanced FPGA Accelerator",
+        "Industry-Ready PCB Design"
+      ]
+    }
+  },
+  "EE": {
+    "1": {
+      "career_paths": [
+        "Electrical Technician",
+        "Junior Power Engineer",
+        "Circuit Designer",
+        "Maintenance Engineer",
+        "Lab Assistant"
+      ],
+      "skills": [
+        "Basic Circuits",
+        "Ohm’s Law",
+        "Electrical Measurements",
+        "MATLAB Basics",
+        "Transformers Intro"
+      ],
+      "resources": [
+        "https://www.electrical4u.com/",
+        "https://nptel.ac.in/courses/108108076",
+        "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/",
+        "https://www.youtube.com/@ElectricalAcademia",
+        "https://www.mathworks.com/learn/tutorials/matlab-onramp.html"
+      ],
+      "projects": [
+        "Ohm’s Law Lab",
+        "RC/RL Circuit Demo",
+        "Simple MATLAB Simulation",
+        "Basic Transformer Model",
+        "LED Power Circuit"
+      ]
+    },
+    "2": {
+      "career_paths": [
+        "Circuit Designer Intern",
+        "Electrical Drafting Assistant",
+        "Motor Technician",
+        "Testing Engineer",
+        "Assistant Power Engineer"
+      ],
+      "skills": [
+        "Circuit Analysis",
+        "AC Fundamentals",
+        "Electrical Machines Basics",
+        "Simulation (LTSpice/PSPICE)",
+        "Power Measurement"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/108105104",
+        "https://www.ti.com/",
+        "https://www.electrical4u.com/machines/",
+        "https://www.analog.com/en/education.html",
+        "https://www.mathworks.com/"
+      ],
+      "projects": [
+        "AC Generator Model",
+        "Induction Motor Simulation",
+        "Transformer Load Test",
+        "RLC Circuit Analyzer",
+        "Power Measurement Project"
+      ]
+    },
+    "3": {
+      "career_paths": [
+        "Power Systems Intern",
+        "Control Engineer Intern",
+        "Energy Systems Assistant",
+        "Electrical Design Intern",
+        "Lab Engineer"
+      ],
+      "skills": [
+        "Transformers",
+        "AC Machines",
+        "Control Systems Basics",
+        "MATLAB Simulink",
+        "Power Electronics Intro"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/108105055",
+        "https://www.mathworks.com/solutions/simulation.html",
+        "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/",
+        "https://www.sciencedirect.com/journal/electric-power-systems-research",
+        "https://electrical-engineering-portal.com/"
+      ],
+      "projects": [
+        "MATLAB Control Simulation",
+        "Transformer Analysis Project",
+        "Motor Speed Control",
+        "Power Electronics Circuit",
+        "Simulink Basic Power Grid"
+      ]
+    },
+    "4": {
+      "career_paths": [
+        "Electrical Design Engineer",
+        "Power Systems Analyst",
+        "Energy Consultant",
+        "Renewable Energy Intern",
+        "Control Engineer"
+      ],
+      "skills": [
+        "Power Electronics",
+        "Machine Modelling",
+        "Control Systems Intermediate",
+        "Renewable Basics",
+        "Power Grid Simulation"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/108105059",
+        "https://www.ieee.org/",
+        "https://electricalacademia.com/",
+        "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/",
+        "https://www.mathworks.com/products/simulink.html"
+      ],
+      "projects": [
+        "Motor Controller with Feedback",
+        "Solar Panel Simulation",
+        "Power Grid Load Flow",
+        "Inverter Prototype",
+        "Energy Audit Report"
+      ]
+    },
+    "5": {
+      "career_paths": [
+        "Control Systems Engineer",
+        "Power Electronics Engineer",
+        "Smart Grid Analyst",
+        "Renewable Energy Engineer",
+        "Simulation Engineer"
+      ],
+      "skills": [
+        "Converters",
+        "Smart Grid Basics",
+        "Power Quality",
+        "Optimization",
+        "Advanced Control Theory"
+      ],
+      "resources": [
+        "https://www.mathworks.com/solutions/power-electronics-control.html",
+        "https://nptel.ac.in/courses/108105112",
+        "https://www.sciencedirect.com/",
+        "https://ieeexplore.ieee.org/",
+        "https://ocw.mit.edu/"
+      ],
+      "projects": [
+        "Solar Inverter Design",
+        "EV Charger Prototype",
+        "Smart Grid Load Simulation",
+        "Harmonics Analysis",
+        "Power Quality Monitoring"
+      ]
+    },
+    "6": {
+      "career_paths": [
+        "Grid Engineer",
+        "Renewable Energy Consultant",
+        "Protection Engineer",
+        "Electrical R&D Engineer",
+        "Smart Systems Engineer"
+      ],
+      "skills": [
+        "Grid Integration",
+        "Protection & Relays",
+        "Energy Storage",
+        "High Voltage Systems",
+        "Simulation Tools Advanced"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/108105112",
+        "https://electrical-engineering-portal.com/",
+        "https://www.abb.com/",
+        "https://www.mathworks.com/",
+        "https://ieeexplore.ieee.org/"
+      ],
+      "projects": [
+        "Battery Monitoring System",
+        "Grid Simulation with Simulink",
+        "Relay Protection Simulation",
+        "Renewable Integration Study",
+        "High Voltage DC Model"
+      ]
+    },
+    "7": {
+      "career_paths": [
+        "Power Systems Engineer",
+        "EV Systems Engineer",
+        "Smart Grid Analyst",
+        "High Voltage Specialist",
+        "Renewable R&D Engineer"
+      ],
+      "skills": [
+        "Smart Grid Advanced",
+        "Stability Analysis",
+        "EV Powertrain",
+        "Optimization in Power",
+        "Control of Power Electronics"
+      ],
+      "resources": [
+        "https://www.nptel.ac.in/courses/108105159",
+        "https://ocw.mit.edu/",
+        "https://electrical-engineering-portal.com/",
+        "https://www.sciencedirect.com/",
+        "https://www.mathworks.com/"
+      ],
+      "projects": [
+        "EV Battery System",
+        "Smart Grid Demand Response",
+        "Advanced Converter",
+        "Stability Analysis Simulation",
+        "Protection Coordination"
+      ]
+    },
+    "8": {
+      "career_paths": [
+        "Senior Power Engineer",
+        "Electrical R&D Specialist",
+        "Energy Systems Consultant",
+        "Research Engineer",
+        "Chief Electrical Designer"
+      ],
+      "skills": [
+        "Large-Scale Power Systems",
+        "System Protection Design",
+        "Standards Compliance",
+        "Optimization at Grid Scale",
+        "Research & Development"
+      ],
+      "resources": [
+        "https://www.ieee.org/",
+        "https://nptel.ac.in/",
+        "https://ocw.mit.edu/",
+        "https://www.sciencedirect.com/",
+        "https://electrical-engineering-portal.com/"
+      ],
+      "projects": [
+        "Capstone Renewable Grid",
+        "Protection & Relay Coordination",
+        "Large-Scale HVDC Simulation",
+        "Smart City Electrical Plan",
+        "Advanced Converter for Industry"
+      ]
+    }
+  },
+  "ME": {
+    "1": {
+      "career_paths": [
+        "Mechanical Technician",
+        "CAD Trainee",
+        "Workshop Assistant",
+        "Quality Inspector (entry)",
+        "Maintenance Assistant"
+      ],
+      "skills": [
+        "Basic Engineering Drawing",
+        "Workshop Safety",
+        "Measurement Tools",
+        "Intro to Materials",
+        "Basic Mechanics"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/112105089",
+        "https://www.autodesk.com/education/free-software/featured",
+        "https://www.learnengineering.org/",
+        "https://www.coursera.org/browse/engineering/mechanical-engineering",
+        "https://www.youtube.com/@LearnEngineering"
+      ],
+      "projects": [
+        "Measure and model a simple part (manual sketch + CAD)",
+        "Basic lathe/filing practice (workshop safe demo)",
+        "Sketch & 2D drawing of a bracket",
+        "Material hardness test demo (report)",
+        "Simple lever experiment & analysis"
+      ]
+    },
+    "2": {
+      "career_paths": [
+        "CAD Operator",
+        "Junior Manufacturing Engineer",
+        "Shop Floor Technician",
+        "Quality Control Assistant",
+        "Prototype Builder"
+      ],
+      "skills": [
+        "AutoCAD 2D",
+        "Material Properties",
+        "Manufacturing processes basics",
+        "Hand tools & machining basics",
+        "Engineering drawing standards"
+      ],
+      "resources": [
+        "https://www.autodesk.com/products/autocad/overview",
+        "https://nptel.ac.in/courses/112101033",
+        "https://www.asme.org/",
+        "https://www.coursera.org/learn/cad",
+        "https://www.youtube.com/@NYCIRL"
+      ],
+      "projects": [
+        "2D CAD drawing of a mechanical part",
+        "Basic turning operation demo",
+        "Material tensile test summary",
+        "Hand-drawn assembly drawing converted to CAD",
+        "Simple sheet metal bend design"
+      ]
+    },
+    "3": {
+      "career_paths": [
+        "CAD Designer",
+        "Thermal Systems Junior",
+        "Quality Engineer Intern",
+        "Manufacturing Engineer Trainee",
+        "Product Designer Assistant"
+      ],
+      "skills": [
+        "3D Modeling (SolidWorks/Creo)",
+        "Thermodynamics basics",
+        "Mechanics of Materials",
+        "GD&T basics",
+        "Basic FEA introduction"
+      ],
+      "resources": [
+        "https://www.solidworks.com/sw/resources/getting-started.htm",
+        "https://nptel.ac.in/courses/112105123",
+        "https://ocw.mit.edu/courses/mechanical-engineering/",
+        "https://www.coursera.org/learn/engineering-mechanics-statics",
+        "https://www.autodesk.com/solutions/3d-cad-software"
+      ],
+      "projects": [
+        "3D-model & print a simple functional part",
+        "Thermal conduction experiment with report",
+        "Static load analysis of a beam (hand calc + CAD)",
+        "GD&T practice on a sample part",
+        "Assemble & test small mechanism"
+      ]
+    },
+    "4": {
+      "career_paths": [
+        "Design Engineer",
+        "Thermal Analyst",
+        "Manufacturing Process Engineer",
+        "Tooling Designer",
+        "CAD/CAM Specialist"
+      ],
+      "skills": [
+        "Finite Element Analysis basics",
+        "Fluid Mechanics intro",
+        "CAD/CAM workflow",
+        "Material selection",
+        "Manufacturing planning"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/112104119",
+        "https://www.coursera.org/learn/finite-element-method",
+        "https://www.autodesk.com/solutions/manufacturing",
+        "https://www.asme.org/topics-resources/content/finite-element-analysis",
+        "https://ocw.mit.edu/courses/mechanical-engineering/"
+      ],
+      "projects": [
+        "FEA on bracket (static analysis)",
+        "Design & simulate a simple pump impeller",
+        "CAM toolpath demo for a small part",
+        "Heat sink thermal analysis",
+        "Design for manufacturing exercise"
+      ]
+    },
+    "5": {
+      "career_paths": [
+        "Manufacturing Engineer",
+        "Automotive Design Engineer",
+        "Thermal Systems Engineer",
+        "Process Improvement Engineer",
+        "R&D Assistant"
+      ],
+      "skills": [
+        "CNC basics",
+        "Advanced CAD assemblies",
+        "Thermal system design",
+        "Tolerance & fits",
+        "Manufacturing process optimization"
+      ],
+      "resources": [
+        "https://www.coursera.org/learn/cnc",
+        "https://www.autodesk.com/solutions/cam",
+        "https://nptel.ac.in/courses/112107083",
+        "https://www.sme.org/",
+        "https://www.asme.org/"
+      ],
+      "projects": [
+        "Design & 3D-print an assembled mechanism",
+        "Mini CNC machining project (concept + files)",
+        "Thermal system simulation of a heat exchanger",
+        "Tolerance stack-up analysis",
+        "Manufacturing cost estimation for a small part"
+      ]
+    },
+    "6": {
+      "career_paths": [
+        "Design Engineer",
+        "Aerospace/Automotive Intern",
+        "CFD/FEA Analyst",
+        "Production Engineer",
+        "Product Development Engineer"
+      ],
+      "skills": [
+        "Advanced FEA",
+        "CFD basics",
+        "Materials selection & failure analysis",
+        "Design optimization",
+        "Production planning"
+      ],
+      "resources": [
+        "https://www.coursera.org/learn/finite-element-method",
+        "https://www.ansys.com/solutions/academic",
+        "https://nptel.ac.in/courses/112108073",
+        "https://ocw.mit.edu/courses/mechanical-engineering/",
+        "https://www.sae.org/"
+      ],
+      "projects": [
+        "CFD simulation of flow over a simple object",
+        "Optimized structural part using topology ideas",
+        "3D printed assembly for functional testing",
+        "Production pilot plan for a small batch",
+        "Failure analysis case study"
+      ]
+    },
+    "7": {
+      "career_paths": [
+        "Senior Design Engineer",
+        "R&D Engineer",
+        "Project Lead",
+        "Aerospace Systems Engineer",
+        "Manufacturing Manager"
+      ],
+      "skills": [
+        "Multi-body dynamics",
+        "Advanced manufacturing",
+        "System integration",
+        "Project management basics",
+        "Advanced simulation"
+      ],
+      "resources": [
+        "https://www.asme.org/",
+        "https://ocw.mit.edu/courses/mechanical-engineering/",
+        "https://nptel.ac.in/courses/112105123",
+        "https://www.sciencedirect.com/",
+        "https://www.sae.org/"
+      ],
+      "projects": [
+        "Robotic arm with sensors and control",
+        "Multi-material printed prototype with testing",
+        "System integration for a mechatronics demo",
+        "Production design for a consumer product",
+        "R&D style concept & prototype"
+      ]
+    },
+    "8": {
+      "career_paths": [
+        "Lead Design Engineer",
+        "R&D Specialist",
+        "Product Manager (technical)",
+        "Aerospace Design Lead",
+        "Manufacturing Head (entry)"
+      ],
+      "skills": [
+        "Design for Manufacturing at scale",
+        "Advanced thermal & fluid optimization",
+        "Project management & planning",
+        "Industrial standards & compliance",
+        "Leadership & communication"
+      ],
+      "resources": [
+        "https://www.asme.org/",
+        "https://ocw.mit.edu/courses/mechanical-engineering/",
+        "https://www.coursera.org/specializations/product-design",
+        "https://nptel.ac.in/",
+        "https://www.sciencedirect.com/"
+      ],
+      "projects": [
+        "Capstone: Product development from concept to prototype",
+        "CFD-driven design optimization of a component",
+        "Manufacturing pilot & costing",
+        "Industrial-strength assembly design & docs",
+        "Comprehensive testing & validation report"
+      ]
+    }
+  },
+  "Civil": {
+    "1": {
+      "career_paths": [
+        "Civil Technician",
+        "Surveying Trainee",
+        "Site Assistant",
+        "Drafting Assistant",
+        "Materials Testing Assistant"
+      ],
+      "skills": [
+        "Basic surveying",
+        "Engineering drawing",
+        "Construction materials basics",
+        "AutoCAD basics",
+        "Measurement & leveling"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/105104101",
+        "https://www.coursera.org/browse/engineering/civil-engineering",
+        "https://www.autodesk.com/solutions/civil-engineering-software",
+        "https://www.iscodebook.com/",
+        "https://ocw.mit.edu/courses/civil-and-environmental-engineering/"
+      ],
+      "projects": [
+        "Simple campus surveying & map",
+        "Manual site plan drawing",
+        "Basic materials (concrete) observation report",
+        "Measurement & leveling practice",
+        "Small retaining wall sketch & concept"
+      ]
+    },
+    "2": {
+      "career_paths": [
+        "Junior Site Engineer",
+        "Draftsman",
+        "Survey Technician",
+        "Materials Lab Assistant",
+        "Quantity Estimation Assistant"
+      ],
+      "skills": [
+        "AutoCAD drafting",
+        "Soil basics",
+        "Basic structural concepts",
+        "Quantity estimation basics",
+        "Construction safety"
+      ],
+      "resources": [
+        "https://www.autodesk.com/education/free-software/featured",
+        "https://nptel.ac.in/courses/105105108",
+        "https://www.coursera.org/specializations/geotechnical-engineering",
+        "https://www.iscodebook.com/",
+        "https://ocw.mit.edu/courses/civil-and-environmental-engineering/"
+      ],
+      "projects": [
+        "Residential plan drafting in AutoCAD",
+        "Soil sample testing & report",
+        "Simple quantity estimation exercise",
+        "Sketch & detail a minor structural member",
+        "Site safety checklist and mock report"
+      ]
+    },
+    "3": {
+      "career_paths": [
+        "Structural Intern",
+        "Geotechnical Assistant",
+        "Surveyor",
+        "Site Supervisor Trainee",
+        "CAD Designer"
+      ],
+      "skills": [
+        "STAAD basics",
+        "Survey data handling",
+        "Concrete technology basics",
+        "Structural analysis intro",
+        "Construction materials testing"
+      ],
+      "resources": [
+        "https://www.bentley.com/software/staadpro/",
+        "https://nptel.ac.in/courses/105105108",
+        "https://ocw.mit.edu/courses/civil-and-environmental-engineering/",
+        "https://www.iscodebook.com/",
+        "https://www.coursera.org/courses?query=structural%20engineering"
+      ],
+      "projects": [
+        "Simple beam/column analysis in STAAD",
+        "Site topography survey & report",
+        "Concrete cube testing & result analysis",
+        "Small foundation sketch & design basics",
+        "Material testing logbook project"
+      ]
+    },
+    "4": {
+      "career_paths": [
+        "Site Supervisor",
+        "Structural Drafter",
+        "Water Resources Assistant",
+        "Traffic Analyst Trainee",
+        "Construction Planner"
+      ],
+      "skills": [
+        "Structural analysis basics",
+        "Water supply basics",
+        "Construction project planning",
+        "Traffic survey basics",
+        "Quantity surveying intro"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/105104107",
+        "https://ocw.mit.edu/courses/civil-and-environmental-engineering/",
+        "https://www.coursera.org/courses?query=transportation%20engineering",
+        "https://www.iscodebook.com/",
+        "https://www.autodesk.com/solutions/civil-engineering-software"
+      ],
+      "projects": [
+        "Retaining wall small design exercise",
+        "Traffic count & simple analysis",
+        "Water distribution sketch & calculation",
+        "Construction schedule (Gantt) for small site",
+        "Quantity takeoff for simple structure"
+      ]
+    },
+    "5": {
+      "career_paths": [
+        "Structural Engineer (junior)",
+        "Transportation Analyst",
+        "Geotechnical Engineer",
+        "Estimating Engineer",
+        "Site Project Engineer"
+      ],
+      "skills": [
+        "Advanced STAAD usage",
+        "Geotechnical field testing",
+        "Design codes application",
+        "Reinforced concrete design basics",
+        "Hydraulics fundamentals"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/105105107",
+        "https://www.coursera.org/specializations/structural-engineering",
+        "https://www.iscodebook.com/",
+        "https://ocw.mit.edu/courses/civil-and-environmental-engineering/",
+        "https://bentley.com/"
+      ],
+      "projects": [
+        "Bridge/truss analysis & report",
+        "Traffic modeling & improvement suggestion",
+        "Stormwater drainage design for a small area",
+        "Reinforced concrete beam design",
+        "Site investigation & report"
+      ]
+    },
+    "6": {
+      "career_paths": [
+        "Site Engineer",
+        "Design Consultant Intern",
+        "Hydraulics Engineer",
+        "Geotech Analyst",
+        "Construction Planner"
+      ],
+      "skills": [
+        "Foundation design basics",
+        "Hydraulics & drainage design",
+        "Construction project planning",
+        "Structural detailing",
+        "Contract basics"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/105105106",
+        "https://www.coursera.org/courses?query=hydraulics",
+        "https://ocw.mit.edu/courses/civil-and-environmental-engineering/",
+        "https://www.iscodebook.com/",
+        "https://bentley.com/products/brands/staad"
+      ],
+      "projects": [
+        "Foundation design for a small structure",
+        "Drainage network simulation (concept)",
+        "Construction scheduling & resource plan",
+        "Detailed structural reinforcement drawing",
+        "Hydraulic analysis for small pump system"
+      ]
+    },
+    "7": {
+      "career_paths": [
+        "Structural Designer",
+        "Project Manager Intern",
+        "Highway/Transport Engineer",
+        "Seismic Design Consultant",
+        "Sustainability Consultant"
+      ],
+      "skills": [
+        "Seismic design basics",
+        "Advanced structural analysis",
+        "Project management basics",
+        "Highway alignment & design basics",
+        "Sustainability in construction"
+      ],
+      "resources": [
+        "https://nptel.ac.in/courses/105106116",
+        "https://ocw.mit.edu/courses/civil-and-environmental-engineering/",
+        "https://www.coursera.org/courses?query=seismic%20design",
+        "https://www.iscodebook.com/",
+        "https://www.transportation.gov/"
+      ],
+      "projects": [
+        "Earthquake-resistant building study (small-scale)",
+        "Highway alignment mini-project",
+        "Sustainability audit for a campus building",
+        "Construction contract mock-up & schedule",
+        "Seismic retrofit proposal for simple structure"
+      ]
+    },
+    "8": {
+      "career_paths": [
+        "Senior Structural Engineer",
+        "Consultant",
+        "Project Manager",
+        "Infrastructure Planner",
+        "Research Engineer (Civil)"
+      ],
+      "skills": [
+        "Complex structural analysis",
+        "Project execution & management",
+        "Codes & compliance",
+        "Advanced geotechnical methods",
+        "Infrastructure planning"
+      ],
+      "resources": [
+        "https://nptel.ac.in/",
+        "https://ocw.mit.edu/courses/civil-and-environmental-engineering/",
+        "https://www.iscodebook.com/",
+        "https://www.worldbank.org/en/topic/transport",
+        "https://www.coursera.org/"
+      ],
+      "projects": [
+        "Capstone: Multi-storey building design (concept + calculations)",
+        "Smart city pilot case study",
+        "Comprehensive site development & drainage plan",
+        "Infrastructure project feasibility study",
+        "Consultant-style structural & materials report"
+      ]
+    }
+  },
+  "AI & Data Science": {
+    "1": {
+      "career_paths": [
+        "Data Analyst (aspiring)",
+        "Business Intelligence Trainee",
+        "Research Assistant (data)",
+        "Junior Data Engineer",
+        "Analytics Intern"
+      ],
+      "skills": [
+        "Python basics",
+        "Basic statistics",
+        "Spreadsheet skills (Excel)",
+        "Data viz fundamentals",
+        "Intro to programming logic"
+      ],
+      "resources": [
+        "https://www.khanacademy.org/math/statistics-probability",
+        "https://cs50.harvard.edu/python/",
+        "https://pandas.pydata.org/docs/getting_started/index.html",
+        "https://www.coursera.org/learn/intro-data-analytics",
+        "https://www.codecademy.com/learn/paths/data-analyst"
+      ],
+      "projects": [
+        "Exploratory Data Analysis (EDA) on a simple CSV",
+        "Basic charts & dashboards in Excel/Google Sheets",
+        "Small data cleaning pipeline (Pandas)",
+        "Simple classification example (teach vs test)",
+        "Report: Data-driven insight from campus dataset"
+      ]
+    },
+    "2": {
+      "career_paths": [
+        "Data Analyst Intern",
+        "Junior BI Developer",
+        "Reporting Analyst",
+        "Data Curator",
+        "Automation Intern"
+      ],
+      "skills": [
+        "Pandas & NumPy",
+        "Descriptive statistics",
+        "SQL basics",
+        "Data cleaning techniques",
+        "Visualization with Matplotlib/Seaborn"
+      ],
+      "resources": [
+        "https://www.kaggle.com/learn/pandas",
+        "https://www.sqlbolt.com/",
+        "https://www.datacamp.com/courses/data-manipulation-with-pandas",
+        "https://seaborn.pydata.org/",
+        "https://www.coursera.org/learn/data-analysis"
+      ],
+      "projects": [
+        "EDA & visualization report on an open dataset",
+        "SQL queries project (join, groupby, filter)",
+        "Automated CSV cleaning script",
+        "Interactive dashboard (Streamlit basic)",
+        "Kaggle beginner notebook submission"
+      ]
+    },
+    "3": {
+      "career_paths": [
+        "Junior Data Analyst",
+        "ML Intern",
+        "Data Engineer (entry)",
+        "Analytics Consultant Intern",
+        "Research Intern"
+      ],
+      "skills": [
+        "Supervised learning basics",
+        "Feature engineering",
+        "Intermediate SQL",
+        "Basic probability & statistics",
+        "Model evaluation metrics"
+      ],
+      "resources": [
+        "https://www.coursera.org/learn/machine-learning",
+        "https://www.kaggle.com/learn/intro-to-machine-learning",
+        "https://scikit-learn.org/stable/tutorial/index.html",
+        "https://www.statlearning.com/",
+        "https://www.datacamp.com/"
+      ],
+      "projects": [
+        "Classification model on tabular data (logistic regression)",
+        "Feature engineering case study",
+        "Model evaluation & confusion matrix report",
+        "Basic time-series plotting & simple forecast",
+        "Kaggle practice competition entry"
+      ]
+    },
+    "4": {
+      "career_paths": [
+        "Data Scientist Intern",
+        "ML Engineer Trainee",
+        "ETL Developer",
+        "Business Analyst",
+        "AI Product Intern"
+      ],
+      "skills": [
+        "Model selection & tuning",
+        "Cross-validation",
+        "ETL basics",
+        "Data pipelines (Airflow intro)",
+        "Intro to neural networks"
+      ],
+      "resources": [
+        "https://www.kaggle.com/learn/advanced-data-cleaning",
+        "https://www.coursera.org/specializations/deep-learning",
+        "https://airflow.apache.org/docs/",
+        "https://www.datacamp.com/courses/introduction-to-deep-learning-in-python",
+        "https://www.tensorflow.org/tutorials"
+      ],
+      "projects": [
+        "ETL pipeline demo (CSV→DB→Report)",
+        "Time-series forecasting prototype",
+        "Image classification with transfer learning (small)",
+        "Model evaluation & bias analysis",
+        "Deploy a small model as an API (Flask)"
+      ]
+    },
+    "5": {
+      "career_paths": [
+        "Machine Learning Engineer",
+        "Data Scientist",
+        "NLP Engineer",
+        "Computer Vision Engineer",
+        "ML Ops Trainee"
+      ],
+      "skills": [
+        "Deep learning basics (CNNs/RNNs)",
+        "Model deployment",
+        "Docker for ML",
+        "Evaluation & metrics for ML",
+        "Feature stores intro"
+      ],
+      "resources": [
+        "https://www.deeplearning.ai/",
+        "https://www.fast.ai/",
+        "https://www.tensorflow.org/tutorials/keras",
+        "https://www.docker.com/",
+        "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops"
+      ],
+      "projects": [
+        "Image classifier with transfer learning",
+        "NLP sentiment analysis pipeline",
+        "Deploy model as a REST API inside Docker",
+        "ML experiment tracking (MLflow basic)",
+        "Dataset labeling & preprocessing workflow"
+      ]
+    },
+    "6": {
+      "career_paths": [
+        "Senior ML Engineer (entry)",
+        "Data Scientist",
+        "ML Research Intern",
+        "ML Ops Engineer",
+        "AI Solutions Developer"
+      ],
+      "skills": [
+        "Advanced neural networks",
+        "NLP fundamentals (transformers intro)",
+        "Model optimization & pruning",
+        "Distributed training basics",
+        "Monitoring & logging"
+      ],
+      "resources": [
+        "https://huggingface.co/learn",
+        "https://www.coursera.org/specializations/deep-learning",
+        "https://www.tensorflow.org/guide/keras/transfer_learning",
+        "https://mlflow.org/docs/latest/index.html",
+        "https://pytorch.org/tutorials/"
+      ],
+      "projects": [
+        "Fine-tune a transformer on a small dataset",
+        "Model optimization & quantization experiment",
+        "End-to-end ML pipeline with monitoring",
+        "NLP pipeline for named entity recognition (small)",
+        "Distributed training demo (conceptual)"
+      ]
+    },
+    "7": {
+      "career_paths": [
+        "Lead ML Engineer",
+        "AI Researcher",
+        "Data Engineering Lead",
+        "ML Systems Architect",
+        "Principal Data Scientist"
+      ],
+      "skills": [
+        "Large-scale ML systems",
+        "Advanced NLP/vision techniques",
+        "Kubernetes for ML",
+        "Model governance",
+        "Data privacy & ethics"
+      ],
+      "resources": [
+        "https://www.huggingface.co/docs",
+        "https://kubernetes.io/docs/home/",
+        "https://www.oreilly.com/library/view/designing-data-intensive/9781449373320/",
+        "https://www.databricks.com/",
+        "https://mlops.community/tutorials/"
+      ],
+      "projects": [
+        "Production-grade ML pipeline with scaling notes",
+        "Large-scale data processing with Spark",
+        "Kubernetes ML deployment (concept & demo)",
+        "Responsible AI audit & mitigation plan",
+        "Capstone: Research-oriented ML project"
+      ]
+    },
+    "8": {
+      "career_paths": [
+        "AI Specialist",
+        "Research Scientist",
+        "ML Architect",
+        "Head of Data",
+        "Principal ML Engineer"
+      ],
+      "skills": [
+        "ML at scale",
+        "Model governance & compliance",
+        "Research methodology & experimentation",
+        "Advanced system design",
+        "Leadership & product thinking"
+      ],
+      "resources": [
+        "https://arxiv.org/",
+        "https://research.google/teams/machine-learning/",
+        "https://mlflow.org/docs/latest/index.html",
+        "https://www.oreilly.com/library/view/designing-data-intensive/9781449373320/",
+        "https://www.linkedin.com/learning/topics/machine-learning"
+      ],
+      "projects": [
+        "Capstone: Production-ready, monitored ML system",
+        "Large-scale model fine-tuning & evaluation",
+        "Research-style project with reproducible experiments",
+        "ML governance & bias mitigation deployment",
+        "Comprehensive portfolio with deployment, tests, and docs"
+      ]
+    }
+  }
+}
